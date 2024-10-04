@@ -12,6 +12,5 @@
 
 ## Installation
 
-1. just clone the repo dude.:
-   ```bash
-   git clone https://github.com/yourusername/Bored.js.git
+1. just clone the repo my guy
+2. nothin else

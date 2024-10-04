@@ -1,3 +1,5 @@
+// just to clean my name and dignity, i did NOT make these jokes or comments, i asked chat gpt for msot of them,
+// also it was his whole idea to make this >:(
 (function(global) {
 
     class Bored {
